@@ -3,7 +3,7 @@ label: Roadmap
 icon: home
 ---
 
----
+![](../static/banner2.png)
 
 # Roadmap
 

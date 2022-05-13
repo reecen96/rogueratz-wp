@@ -2,8 +2,10 @@
 label: Welcome
 icon: home
 ---
+# Welcome to Rogue Ratz
+![](static/banner4.png)
 
-# Rogue Ratz
+
 
 This is a paragraph.
 
