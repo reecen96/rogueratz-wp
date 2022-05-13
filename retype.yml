@@ -6,11 +6,9 @@ branding:
   logo: static/logo.png # Path to a logo file.
   logoDark: static/logo.png # Path to a logo file to use in dark mode.
   logoAlign: right # Align the logo to the right or the left.
-  label: Docs # Optional label. To remove the label, remove this config.
   colors:
     label: # Label colors
       text: "#ffffff" # Custom color for the label text.
-      background: "#ff0000" # Custom color for the label background.
 links:
   - text: Twitter
     link: https://twitter.com/RogueRatz
