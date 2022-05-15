@@ -1,12 +1,12 @@
 ---
-label: Technology
+label: The Tokenomics Model
 icon: home
 ---
 
 ---
 ![](../static/banner.png)
 
-# Technology
+# The Tokenomics Model
 
 The $CHEESE Token will be used to power the Rogue Ratz Economy, and also be supported by a liquidity pool with a real-world value.
 

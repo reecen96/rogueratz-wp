@@ -1,6 +1,7 @@
 ---
 label: Who are the Rogue Ratz?
 icon: home
+order: 1000
 ---
 
 ![](../static/banner3.png)

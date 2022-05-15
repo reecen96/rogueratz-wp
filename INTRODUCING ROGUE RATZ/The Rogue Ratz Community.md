@@ -1,10 +1,11 @@
 ---
 label: The Rogue Ratz Community
 icon: home
+order: 2000
 ---
 
 ![](../static/banner3.png)
-# The Rogue Ratz Community?
+# The Rogue Ratz Community
 
 **The Rogue Ratz Community**
 
