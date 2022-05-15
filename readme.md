@@ -5,7 +5,7 @@ icon: home
 # Welcome to Rogue Ratz
 ![](static/banner4.png)
 
-Rogue Ratz is a collection of 4,848 rodens living in the Solana Sewers. 
+Rogue Ratz is a collection of 4,848 rodents living in the Solana Sewers. 
 
 Rogue Ratz will be encompassed by engaging lore, exciting and unique artwork as well as P2E mechanisms along with cutting edge utility. 
 
@@ -44,5 +44,5 @@ This is a paragraph.
 ---
 
 !!!
-Need to draw attention to something? Use an alert.
+Want to know more? Dive into our comprehensive whitepaper and explore the RogueRatz world!
 !!!
