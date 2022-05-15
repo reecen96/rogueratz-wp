@@ -35,13 +35,14 @@ The Rogue Ratz Motto:
 # Unique Artwork:
 
 Talking about variety we must first let's look at our traits for the 5,000 Vanguards:
-Backgrounds: X
-Gangs: 3 
-X:X
-X:X
-X:X
 
-Super Rares: X
+- Backgrounds: X
+- Gangs: 3 
+- X:X
+- X:X
+- X:X
+
+- Super Rares: X
 
 X unique combinations - One of the largest collections to date
 
