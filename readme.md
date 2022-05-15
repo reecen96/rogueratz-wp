@@ -1,5 +1,5 @@
 ---
-label: Welcome
+label: Introducing RogueRats
 icon: home
 ---
 # Welcome to Rogue Ratz
