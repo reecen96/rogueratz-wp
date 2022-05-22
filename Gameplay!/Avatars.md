@@ -23,3 +23,6 @@ Links to the District3 app
 [Apple iOS app](https://apps.apple.com/app/id1606714182?platform=iphone)
 
 [Web preview](https://district3.io/preview/)
+
+![](../static/ar.png)
+

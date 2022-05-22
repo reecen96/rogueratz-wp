@@ -24,6 +24,7 @@ icon: home
 | Gang Member | $CHEESE | x1 | 2x Goon |
 | Gang Boss | $CHEESE | x3 | 3x Gang Member |
 
+![](../static/rat5.png)
 **Upgrading Rat** 
 
 1. Mint a Rogue Rat - Ratz start off as **Goon Ratz**

@@ -15,6 +15,9 @@ The Rogue Ratz univerise is a never ending turf war between three gangs. The fig
 
 Choose between the Crook Gang, The Hillbilly Gang and the Academics Gang - Choose your side and lead your gang to victory! 
 
+
+![](../static/rat2.png)
+
 # Quick Info:
 
 Only got a minute? Check out the critical information for Rogue Ratz 

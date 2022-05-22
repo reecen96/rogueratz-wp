@@ -23,6 +23,8 @@ The Rogue Ratz economy is supported by a dual-token model. Rogue Ratz will earn 
 
 Rogue Ratz introduces fantastic utility, amazing earning potential, and an engaging storyline as well as a vibrant community.
 
+![](../static/rat3.png)
+
 # Overview:
 
 **Here’s what you can expect**
