@@ -9,11 +9,15 @@ Rogue Ratz is a collection of 4,848 rodents living in the Solana Sewers.
 
 Rogue Ratz will be encompassed by engaging lore, exciting and unique artwork as well as P2E mechanisms along with cutting edge utility. 
 
-The Rogue Ratz world exists in the underworld of Solana, they’ve created a city of their own. The Solana Sewers are filled with life and culture which you’ll find navigating through the ever changing, disorientating and expansive network of tunnels that exists below ground. 
+The Rogue Ratz world exists in the expansive network of the Solana Sewers. They’ve created a world of their own, unknown to the residents above ground. 
 
-The Rogue Ratz univerise is a never ending turf war between three gangs. The fight for $CREDZ and $CHEEZ keeps crime rates high and the civilians on edge. These gangs battle for power, street cred and riches. 
+The Rogue Ratz have mutated from the common rat, caused by the large amounts of radioactive waste circulating below ground - The Rogue Ratz are mostly decent creatures, except they do say themselves that they are a little bit odd. 
 
-Choose between the Crook Gang, The Hillbilly Gang and the Academics Gang - Choose your side and lead your gang to victory! 
+The Sewers are filled with life and culture which you’ll find navigating through the ever changing, disorientating and expansive network of tunnels that exists below ground. 
+
+There are three gangs within the sewers, and The Rogue Ratz univerise finds itself in a never ending turf war between these gangs. The fight for $CREDZ and $CHEEZE keeps crime rates high and the civilians on edge. These gangs battle for power, street cred and riches. 
+
+[!badge Choose between the Crook Gang, The Hillbilly Gang and the Academics Gang and strap yourself in for a wild ride!] 
 
 # Quick Info:
 

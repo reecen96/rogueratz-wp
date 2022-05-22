@@ -13,7 +13,7 @@ order: 10000
 
 Rogue Ratz will introduce a dual-token economy model. The advantages of utilising two SPL Tokens for the platform include additional financial incentive, structure, features, and utility for the holders. Obscuring a liquidity backed token from the in game currency will give greater control over growth & inflationary pressures of the token - ensuring sustainable growth. 
 
-Our tokenomics have been built from the ground up to be deflationary. $CHEESE & $CREW will be burnt on each transaction. 
+Our tokenomics have been built from the ground up to be deflationary. $CHEESE & $CRED will be burnt on each transaction. 
 
 Utilising the token swap model, balancing the value and benefits for the tokens is made easy.
 

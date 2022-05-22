@@ -6,6 +6,10 @@ icon: home
 ---
 ![](../static/banner.png)
 
+# Can you make it to the top?
+
+Insert infographic
+
 ## Staking
 
 | Pool Name | WL NFT | Reward token | Reward multiplier | Lock period |
