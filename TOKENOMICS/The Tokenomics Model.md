@@ -51,6 +51,8 @@ This token is used by Gang Bosses to make proposals to the gang. Gang bosses fro
 | Boss Control Crooks | 1000 | $BOSSC | NO | 1 |
 | Boss Control Academics | 1000 | $BOSSA | NO | 1 |
 
+![](../static/rat7.png)
+
 ## Unteathered tokenomics
 
 Rewards & transaction prices will fluctuate depending on the current value of $CHEESE/USDC. 

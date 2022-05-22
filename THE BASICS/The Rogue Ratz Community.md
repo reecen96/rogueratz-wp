@@ -25,6 +25,8 @@ Here's what drives our decision:
 - Utility
 - Financial Reward
 
+![](../static/rat1.png)
+
 The Rogue Ratz project is building a vibrant community, one that attracts unique holders through engaging storylines and fantastic utility which will reward our community financially.
 
 The team is aiming for a high level of unique holders, to enable the most dedicated and active community members to share in the riches of the Solana Sewers. 
