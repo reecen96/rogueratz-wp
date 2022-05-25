@@ -6,7 +6,7 @@ order: 7000
 
 ![](../static/banner2.png)
 
-#  Becoming a Gang Rat
+# Becoming a Gang Rat
 
 Once a Civilian Rat has earned enough $CREDZ they will be able to participate in the Initiation. Each Gang his its own personality and your Civilian Rat will naturally gravitate towards the Gang with which they most align.
 

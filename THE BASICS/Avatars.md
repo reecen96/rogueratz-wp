@@ -1,7 +1,7 @@
 ---
 label: Avatars
 icon: home
-order: 2000
+order: 100
 ---
 
 ![](../static/banner2.png)

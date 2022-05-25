@@ -6,13 +6,17 @@ order: 3000
 
 ![](../static/banner2.png)
 
-# Gang Wars
+# Gang boss
 
 It takes more than pledging —. 
 
 Making it to the top has its perks. Gang bosses head the Academic, Hillbilly & Thieve Gangs. Gang Bosses propose decisions to the Gangs whilst Gang members vote on these proposals. 
 
+To become a Gang Boss - You'll need to earn your stripes, take out a traitor within your own gang to show your fellow gang bangers you deserve their respect.Gang Bosses are unlocked through a burning mechanism.
+
 Gang Bosses also receive bonus Cheese rewards - making them the biggest earners in sewers.
+
+There is a set limit on the number of Gang Bosses, but all Ratz will have their chance to become a Gang Boss and control the gang together with the other bosses.
 
 - $CHEESE + 3x Gang Rat = **Gang Boss**
 - Staked Gang Bosses are rewarded with $CHEESE & DAO tokens
