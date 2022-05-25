@@ -48,11 +48,6 @@ Instructions for utilising Augmented Reality:
 
 4. Show your NFT QR Code and Scan it with your Mobile Device!
 
-<<<<<<< HEAD
 [Web preview](https://district3.io/preview/)
 
-![](../static/ar.png)
-
-=======
 [!badge Voila - Your Rogue Rat has come to life]
->>>>>>> 53194bf (test)
