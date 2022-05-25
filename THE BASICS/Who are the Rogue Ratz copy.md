@@ -1,7 +1,7 @@
 ---
 label: Who are the Rogue Ratz?
 icon: home
-order: 2000
+order: 3000
 ---
 
 ![](../static/banner3.png)
@@ -24,6 +24,8 @@ These gangs all have an expansive history, unique culture and fascinating identi
 The three gangs are locked in a brutal turf war, as greed has taken over and the fight for ***$CHEEZE*** is never-ending. 
 
 [!badge The Rogue Ratz need help, choose your side and lead your gang to victory to earn your share of riches. ]
+
+![](../static/rat3.png)
 
 The Rogue Ratz P2E Model will empower holders to stake, evolve and work their way up the in their respective gang to achieve power and extrodinary wealth. 
 
